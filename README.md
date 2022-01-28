@@ -1,5 +1,7 @@
 # lista_tarefas
 
+![Home](https://i.imgur.com/ggefwCO.png)
+
 A new Flutter project.
 
 ## Getting Started
