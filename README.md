@@ -1,6 +1,6 @@
 # lista_tarefas
 
-![Home](https://i.imgur.com/frfN5w3.png)
+![Home](https://i.imgur.com/IWgIz7P.png)
 
 A new Flutter project.
 
